@@ -6,6 +6,8 @@ This project presents the design, distribution, and analysis of a survey focused
 
 The project emphasizes survey design, data collection, and reflection on results, with a focus on connecting real-world experiences to quantitative and qualitative analysis.
 
+To view the original survey, please visit the link: [here](https://docs.google.com/forms/d/1gWtYV7ilShh5mGqg10LY7zQPHeebQWvVh7UWHoTihbY/edit)
+
 ## 💡 Project Overview
 - Designed a survey to collect data on lighting preferences
 - Distributed the survey to participants and collected responses
